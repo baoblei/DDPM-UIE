@@ -1,5 +1,5 @@
 # A Patch-based Method for Underwater Image Enhancement with Denoising Diffusion Models
-Binglei Bao, Haisheng Xia, Fei Liao, Jintao Chen, Binglu Wang, Zhijun Li
+Haisheng Xia, Binglei Bao, Fei Liao, Jintao Chen, Binglu Wang, Zhijun Li
 
 *This repository introduces the paper: "A Patch-based Method for Underwater Image Enhancement with Denoising Diffusion Models", and includes enhancement results from various public datasets and real-world scene images.*
 
